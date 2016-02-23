@@ -5,7 +5,7 @@ layout: page
 
 a
 
-> Minimalist | Appleist | Unixer | Coder
+> Coder | Appleist | Unixer | Coder
 
 who involved in 
 
