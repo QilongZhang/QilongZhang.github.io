@@ -5,18 +5,15 @@ layout: page
 
 a
 
-> Coder | Appleist | Unixer | Coder
-
-who involved in 
-
-> [github](https://github.com/waynezhang)
+> Traveller & Coder 
 
 mail 
 
-> echo srvpqxfbyqfvpdtkbjwt | tr yxwvtsrqpkjfdb zuonmlihgeca@.
+> speknight4534@gmail.com
 
 or follow 
 
-> [@o_lll](https://twitter.com/#!/o_lll)
+> [github](https://github.com/QilongZhang)
+> [weibo](http://weibo.com/u/1815916004?is_all=1)
 
 to reach me
