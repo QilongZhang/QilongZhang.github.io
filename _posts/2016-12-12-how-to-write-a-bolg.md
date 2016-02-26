@@ -1,6 +1,12 @@
 ---
-layout: default
+layout: post
 ---
 
 djks
+
+{% highlight ruby %}
+def foo
+    puts 'foo'
+end 
+{% endhighlight %}
 

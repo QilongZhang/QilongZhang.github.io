@@ -1,8 +1,7 @@
-markdown: rdiscount
-highlighter: pygments
+#markdown: Redcarpet
 permalink: /:title
 name: "speknight"
-markdown: kramdown 
+markdown: redcarpet 
 
 author: "Qilong"
 atom-baseurl: "http://qlong.me"
